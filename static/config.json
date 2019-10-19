@@ -1,7 +1,7 @@
 {
   "theme": "pleroma-dark",
   "background": "/static/aurora_borealis.jpg",
-  "logo": "/static/logo.png",
+  "logo": "",
   "logoMask": true,
   "logoMargin": ".1em",
   "redirectRootNoLogin": "/main/all",
