@@ -10,7 +10,7 @@
   "collapseMessageWithSubject": false,
   "scopeCopy": true,
   "subjectLineBehavior": "email",
-  "postContentType": "text/plain",
+  "postContentType": "text/html",
   "alwaysShowSubjectInput": true,
   "hidePostStats": false,
   "hideUserStats": false,
