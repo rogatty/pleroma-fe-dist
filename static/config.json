@@ -1,6 +1,6 @@
 {
-  "theme": "pleroma-dark",
-  "background": "/static/aurora_borealis.jpg",
+  "theme": "bird",
+  "background": "/static/trees.png",
   "logo": "",
   "logoMask": true,
   "logoMargin": ".1em",
