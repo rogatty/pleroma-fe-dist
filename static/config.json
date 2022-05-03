@@ -2,7 +2,6 @@
   "alwaysShowSubjectInput": true,
   "background": "/static/trees.png",
   "collapseMessageWithSubject": false,
-  "disableChat": false,
   "greentext": false,
   "hideFilteredStatuses": false,
   "hideMutedPosts": false,
